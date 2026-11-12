@@ -41,4 +41,4 @@ I build production web apps, admin dashboards, REST APIs and mobile apps, from d
 
 I'm available for **remote full-time roles** and **freelance projects**.
 
-- X (Twitter): [@lobad456](https://x.com/lobad456), DMs open
+- X (Twitter): [@OdayLubbad](https://x.com/OdayLubbad), DMs open
